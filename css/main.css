@@ -185,13 +185,10 @@ a:active {
 /* Footer */
 
 #footer {
-	display: flex;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	margin: auto;
-	height: 100%;
-	width: 80%;
-	background-color: lightgrey;
+	text-align: center;
+    background-color: #dce3e2;
+    padding: 3em 0 4em 0;
+    font-size: 0.8em;
 }
 
 #footer .copyright li {
